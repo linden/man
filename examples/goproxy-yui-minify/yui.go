@@ -22,7 +22,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/elazarl/goproxy"
+	"github.com/linden/man"
 )
 
 func main() {
